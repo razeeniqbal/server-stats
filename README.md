@@ -19,7 +19,4 @@ A simple shell script to analyze server performance statistics.
 2. Make the script executable: `chmod +x server-stats.sh`
 3. Run the script: `./server-stats.sh`
 
-## License
-MIT License
-
 https://roadmap.sh/projects/server-stats
